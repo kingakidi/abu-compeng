@@ -1780,3 +1780,17 @@ tbody tr:hover td {
     scroll-behavior: auto;
   }
 }
+
+
+/* Student directory portfolio links */
+a.portfolio-link {
+  font-weight: 700;
+  color: var(--accent-deep);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+a.portfolio-link:hover,
+a.portfolio-link:focus-visible {
+  color: var(--brown);
+}
+table { min-width: 720px; }

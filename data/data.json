@@ -339,6 +339,7 @@
     }
   ],
   "students": {
+    "group_label": "COEN 554 Group 2 — Department Website Redesign",
     "entries": [
       {
         "id": "stu-001",
@@ -346,127 +347,109 @@
         "reg_no": "U21CO2029",
         "level": "500",
         "specialization": "AI Engineering",
-        "description": "500 Level student specializing in AI Engineering."
+        "portfolio_url": "https://kingakidi.github.io/",
+        "repo_url": "https://github.com/kingakidi",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-002",
-        "name": "Aisha Bello Mohammed",
-        "reg_no": "U22CO1104",
-        "level": "400",
-        "specialization": "Networking Engineering",
-        "description": "400 Level student."
+        "name": "Zubair Abdulbaqie",
+        "reg_no": "U19CO1033",
+        "level": "500",
+        "specialization": "Control Engineering",
+        "portfolio_url": "https://drey-18.github.io/zubair-computer-engineering-portfolio/",
+        "repo_url": "https://github.com/DREY-18/zubair-computer-engineering-portfolio",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-003",
-        "name": "Chinedu Okeke",
-        "reg_no": "U22CO1187",
-        "level": "400",
-        "specialization": "Control Engineering",
-        "description": "400 Level student."
+        "name": "Anafi Sadiq Olarewaju",
+        "reg_no": "U19CO1034",
+        "level": "500",
+        "specialization": "Networking Engineering",
+        "portfolio_url": "https://sadiqanafi01.github.io/Portfolio/",
+        "repo_url": "https://github.com/sadiqanafi01/Portfolio",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-004",
-        "name": "Fatima Yusuf Ibrahim",
-        "reg_no": "U21CO2041",
+        "name": "Ibrahim Abdulbasit Ozomata",
+        "reg_no": "U19CO1072",
         "level": "500",
-        "specialization": "Control Engineering",
-        "description": "500 Level student."
+        "specialization": "AI Engineering",
+        "portfolio_url": "https://coen-554-u19-co-1072.vercel.app/",
+        "repo_url": "https://github.com/bazmaoz/COEN554-U19CO1072",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-005",
-        "name": "Ibrahim Salihu",
-        "reg_no": "U21CO2098",
+        "name": "Tahir Abdulhafiz",
+        "reg_no": "U21CO2006",
         "level": "500",
         "specialization": "Networking Engineering",
-        "description": "500 Level student."
+        "portfolio_url": "https://abduulhafeez.github.io/abdulhafiz/",
+        "repo_url": "https://github.com/Abduulhafeez/abdulhafiz",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-006",
-        "name": "Grace Adeola Ojo",
-        "reg_no": "U23CO0912",
-        "level": "300",
-        "specialization": null,
-        "description": "300 Level student (pre-specialization)."
+        "name": "Abubakar Mohammed",
+        "reg_no": "U21CO2021",
+        "level": "500",
+        "specialization": "Control Engineering",
+        "portfolio_url": "https://zhedecho.github.io/zhed-portfolio/",
+        "repo_url": "https://github.com/zhedecho/zhed-portfolio",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-007",
-        "name": "Umar Farouk Abdullahi",
-        "reg_no": "U23CO0955",
-        "level": "300",
-        "specialization": null,
-        "description": "300 Level student (pre-specialization)."
+        "name": "David Oiwona Ejila",
+        "reg_no": "U21CO2032",
+        "level": "500",
+        "specialization": "AI Engineering",
+        "portfolio_url": "https://davidejila270-sys.github.io/portfolio/",
+        "repo_url": "https://github.com/davidejila270-sys/portfolio",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-008",
-        "name": "Blessing Eze",
-        "reg_no": "U24CO0610",
-        "level": "200",
-        "specialization": null,
-        "description": "200 Level student."
+        "name": "Oluwafemi Lawal",
+        "reg_no": "U21CO2030",
+        "level": "500",
+        "specialization": "Networking Engineering",
+        "portfolio_url": "https://femoskeydev.github.io/computer-engineering-portfolio/",
+        "repo_url": "https://github.com/FemoskeyDev/computer-engineering-portfolio",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-009",
-        "name": "Abdulkadir Musa",
-        "reg_no": "U24CO0677",
-        "level": "200",
-        "specialization": null,
-        "description": "200 Level student."
+        "name": "Abdulazeez Baba",
+        "reg_no": "U19CO1030",
+        "level": "500",
+        "specialization": "Control Engineering",
+        "portfolio_url": "https://baabaah.github.io/my-portfolio-repo/",
+        "repo_url": "https://github.com/Baabaah/my-portfolio-repo",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       },
       {
         "id": "stu-010",
-        "name": "Ngozi Adaeze Nwosu",
-        "reg_no": "U25CO0318",
-        "level": "100",
-        "specialization": null,
-        "description": "100 Level student."
-      },
-      {
-        "id": "stu-011",
-        "name": "Yusuf Haruna",
-        "reg_no": "U25CO0342",
-        "level": "100",
-        "specialization": null,
-        "description": "100 Level student."
-      },
-      {
-        "id": "stu-012",
-        "name": "Sarah Danjuma",
-        "reg_no": "U22CO1211",
-        "level": "400",
-        "specialization": "AI Engineering",
-        "description": "400 Level student."
-      },
-      {
-        "id": "stu-013",
-        "name": "Emmanuel Tersoo",
-        "reg_no": "U23CO0881",
-        "level": "300",
-        "specialization": null,
-        "description": "300 Level student."
-      },
-      {
-        "id": "stu-014",
-        "name": "Halima Abubakar",
-        "reg_no": "U21CO2115",
+        "name": "Makama Sa'ad",
+        "reg_no": "U19CO1032",
         "level": "500",
         "specialization": "AI Engineering",
-        "description": "500 Level student."
-      },
-      {
-        "id": "stu-015",
-        "name": "Kelvin Okafor",
-        "reg_no": "U24CO0703",
-        "level": "200",
-        "specialization": null,
-        "description": "200 Level student."
-      },
-      {
-        "id": "stu-016",
-        "name": "Zainab Lawal",
-        "reg_no": "U22CO1250",
-        "level": "400",
-        "specialization": "Networking Engineering",
-        "description": "400 Level student."
+        "portfolio_url": "https://saad-makama-portfolio.vercel.app/",
+        "repo_url": "https://github.com/saadwave/saad-makama-portfolio",
+        "group": "COEN554 Group 2",
+        "description": "500 Level student — COEN 554 Group 2. Portfolio linked from the student directory."
       }
     ]
   },
