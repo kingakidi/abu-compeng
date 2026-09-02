@@ -5,6 +5,7 @@ COEN 554 Question Two redesign. Static site: HTML5 + CSS3 + JSON (no JavaScript)
 ## Live host
 
 - **Vercel:** https://compeng.vercel.app
+- **Source:** https://github.com/kingakidi/abu-compeng
 
 ## Local preview
 
