@@ -1095,11 +1095,16 @@ button.btn {
   display: grid;
   grid-template-columns: 0.85fr 1.15fr;
   gap: 0;
+  margin-bottom: 1.25rem;
   background: rgba(255, 255, 255, 0.78);
   border: 1px solid var(--line);
   border-radius: var(--radius);
   overflow: hidden;
   scroll-margin-top: calc(var(--nav-h) + 1rem);
+}
+
+.detail-panel:last-of-type {
+  margin-bottom: 0;
 }
 
 .detail-panel-visual {
@@ -1793,4 +1798,34 @@ a.portfolio-link:hover,
 a.portfolio-link:focus-visible {
   color: var(--brown);
 }
-table { min-width: 720px; }
+table {
+  min-width: 720px;
+}
+
+/* Spacing helpers (replaces former inline styles) */
+.container--follow {
+  margin-top: 2rem;
+}
+
+.prose-gap {
+  margin-top: 1.25rem;
+}
+
+.lanes--before-details {
+  margin-bottom: 2rem;
+}
+
+.tab-panel .person-grid {
+  margin-top: 1.25rem;
+}
+
+.contact-card--follow {
+  margin-top: 1rem;
+}
+
+.modal .role {
+  margin: 0 0 0.35rem;
+  font-weight: 700;
+  color: var(--accent-deep);
+}
+
