@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="AI Engineering">
+  <rect width="640" height="400" fill="#0B1220"/>
+  <circle cx="320" cy="200" r="90" fill="none" stroke="#146C43" stroke-width="8"/>
+  <circle cx="320" cy="200" r="48" fill="#B89B5E"/>
+  <g stroke="#F4F7F5" stroke-width="3" stroke-linecap="round">
+    <line x1="320" y1="70" x2="320" y2="110"/>
+    <line x1="320" y1="290" x2="320" y2="330"/>
+    <line x1="190" y1="200" x2="230" y2="200"/>
+    <line x1="410" y1="200" x2="450" y2="200"/>
+    <line x1="228" y1="108" x2="256" y2="136"/>
+    <line x1="384" y1="264" x2="412" y2="292"/>
+    <line x1="412" y1="108" x2="384" y2="136"/>
+    <line x1="256" y1="264" x2="228" y2="292"/>
+  </g>
+  <circle cx="320" cy="70" r="8" fill="#F4F7F5"/>
+  <circle cx="320" cy="330" r="8" fill="#F4F7F5"/>
+  <circle cx="190" cy="200" r="8" fill="#F4F7F5"/>
+  <circle cx="450" cy="200" r="8" fill="#F4F7F5"/>
+</svg>

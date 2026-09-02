@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Networking Engineering">
+  <rect width="640" height="400" fill="#0B1220"/>
+  <g fill="#146C43">
+    <circle cx="160" cy="120" r="28"/>
+    <circle cx="480" cy="120" r="28"/>
+    <circle cx="320" cy="220" r="36"/>
+    <circle cx="200" cy="320" r="28"/>
+    <circle cx="440" cy="320" r="28"/>
+  </g>
+  <g stroke="#B89B5E" stroke-width="3" fill="none">
+    <line x1="180" y1="140" x2="296" y2="200"/>
+    <line x1="460" y1="140" x2="344" y2="200"/>
+    <line x1="296" y1="248" x2="220" y2="300"/>
+    <line x1="344" y1="248" x2="420" y2="300"/>
+    <line x1="188" y1="120" x2="452" y2="120"/>
+  </g>
+  <g fill="#F4F7F5">
+    <circle cx="160" cy="120" r="8"/>
+    <circle cx="480" cy="120" r="8"/>
+    <circle cx="320" cy="220" r="10"/>
+    <circle cx="200" cy="320" r="8"/>
+    <circle cx="440" cy="320" r="8"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="SIWES news">
+  <rect width="640" height="360" fill="#132033"/>
+  <rect x="120" y="100" width="160" height="160" rx="12" fill="#146C43"/>
+  <rect x="320" y="120" width="200" height="20" rx="8" fill="#B89B5E"/>
+  <rect x="320" y="160" width="180" height="12" rx="6" fill="#F4F7F5" opacity="0.4"/>
+  <rect x="320" y="190" width="160" height="12" rx="6" fill="#F4F7F5" opacity="0.3"/>
+</svg>

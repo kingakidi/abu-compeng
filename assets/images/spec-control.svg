@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Control Engineering">
+  <rect width="640" height="400" fill="#0F1C2E"/>
+  <rect x="80" y="160" width="200" height="120" rx="12" fill="#146C43"/>
+  <rect x="110" y="190" width="60" height="12" rx="6" fill="#F4F7F5" opacity="0.7"/>
+  <rect x="110" y="220" width="140" height="10" rx="5" fill="#B89B5E"/>
+  <path d="M280 220 H360" stroke="#B89B5E" stroke-width="4"/>
+  <circle cx="420" cy="220" r="70" fill="none" stroke="#F4F7F5" stroke-width="10"/>
+  <circle cx="420" cy="220" r="12" fill="#B89B5E"/>
+  <line x1="420" y1="220" x2="460" y2="170" stroke="#B89B5E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M500 140 Q560 220 500 300" fill="none" stroke="#146C43" stroke-width="8" stroke-linecap="round"/>
+</svg>

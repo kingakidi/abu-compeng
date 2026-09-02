@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Postgraduate programme">
+  <rect width="640" height="360" fill="#E8EEEA"/>
+  <rect x="40" y="40" width="560" height="280" rx="16" fill="#0F1C2E"/>
+  <circle cx="160" cy="180" r="50" fill="#146C43"/>
+  <rect x="240" y="130" width="280" height="18" rx="8" fill="#B89B5E"/>
+  <rect x="240" y="170" width="240" height="12" rx="6" fill="#F4F7F5" opacity="0.35"/>
+  <rect x="240" y="200" width="200" height="12" rx="6" fill="#F4F7F5" opacity="0.25"/>
+</svg>

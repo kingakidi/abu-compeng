@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Admissions news">
+  <rect width="640" height="360" fill="#0F1C2E"/>
+  <rect x="180" y="70" width="280" height="220" rx="14" fill="#146C43"/>
+  <rect x="210" y="110" width="220" height="16" rx="8" fill="#B89B5E"/>
+  <rect x="210" y="150" width="180" height="10" rx="5" fill="#F4F7F5" opacity="0.5"/>
+  <rect x="210" y="180" width="200" height="10" rx="5" fill="#F4F7F5" opacity="0.35"/>
+  <rect x="210" y="220" width="120" height="36" rx="8" fill="#0B1220"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Computer Engineering hero visual">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#0F1C2E"/>
+      <stop offset="100%" stop-color="#146C43"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B89B5E" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#146C43" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="980" cy="160" r="180" fill="url(#glow)"/>
+  <circle cx="220" cy="640" r="220" fill="#146C43" opacity="0.18"/>
+  <g fill="none" stroke="#B89B5E" stroke-opacity="0.45" stroke-width="1.5">
+    <path d="M80 520 C220 420, 380 620, 520 480 S820 360, 1100 420"/>
+    <path d="M60 300 C240 220, 400 380, 560 280 S860 180, 1140 260"/>
+  </g>
+  <g fill="#F4F7F5" opacity="0.9">
+    <rect x="430" y="250" width="340" height="220" rx="18" fill="#132033" stroke="#B89B5E" stroke-width="2"/>
+    <rect x="460" y="280" width="120" height="14" rx="7" fill="#146C43"/>
+    <rect x="460" y="310" width="280" height="10" rx="5" fill="#F4F7F5" opacity="0.35"/>
+    <rect x="460" y="335" width="240" height="10" rx="5" fill="#F4F7F5" opacity="0.25"/>
+    <rect x="460" y="360" width="200" height="10" rx="5" fill="#F4F7F5" opacity="0.2"/>
+    <circle cx="700" cy="400" r="28" fill="#B89B5E"/>
+    <path d="M690 400 l8 8 14-16" fill="none" stroke="#0B1220" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g fill="#B89B5E" opacity="0.7">
+    <circle cx="180" cy="180" r="4"/>
+    <circle cx="240" cy="210" r="3"/>
+    <circle cx="900" cy="520" r="4"/>
+    <circle cx="960" cy="560" r="3"/>
+  </g>
+</svg>

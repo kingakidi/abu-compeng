@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Leadership news">
+  <rect width="640" height="360" fill="#0B1220"/>
+  <circle cx="320" cy="150" r="55" fill="#146C43"/>
+  <rect x="250" y="220" width="140" height="70" rx="40" fill="#146C43"/>
+  <rect x="80" y="300" width="480" height="10" rx="5" fill="#B89B5E"/>
+</svg>

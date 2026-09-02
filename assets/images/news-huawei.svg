@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Huawei ICT news">
+  <rect width="640" height="360" fill="#0F1C2E"/>
+  <polygon points="320,60 380,160 260,160" fill="#B89B5E"/>
+  <rect x="200" y="180" width="240" height="100" rx="12" fill="#146C43"/>
+  <rect x="230" y="210" width="180" height="14" rx="7" fill="#F4F7F5" opacity="0.7"/>
+</svg>

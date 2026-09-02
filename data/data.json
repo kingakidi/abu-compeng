@@ -1,0 +1,559 @@
+{
+  "meta": {
+    "department": "Department of Computer Engineering",
+    "faculty": "Faculty of Engineering",
+    "university": "Ahmadu Bello University, Zaria",
+    "email": "comengg@abu.edu.ng",
+    "location": "Department of Computer Engineering, Ahmadu Bello University, Samaru Main Campus, Zaria, Nigeria",
+    "hod": "Dr. Engr. Mrs. Basira Yahaya",
+    "autonomy_year": 2017,
+    "source": "https://engineering.abu.edu.ng/department/compeng/public/"
+  },
+  "specializations": [
+    {
+      "id": "ai-engineering",
+      "title": "AI Engineering",
+      "level": "400 Level and 500 Level",
+      "legacy_label": "Artificial Intelligence (AI)",
+      "description": "Deep learning, natural language processing, computer vision, and AI systems engineering for real-world applications.",
+      "image_url": "assets/images/spec-ai.jpg",
+      "themes": ["Deep Learning", "Natural Language Processing", "Computer Vision", "Intelligent Systems"]
+    },
+    {
+      "id": "control-engineering",
+      "title": "Control Engineering",
+      "level": "400 Level and 500 Level",
+      "legacy_label": "Control and Intelligent System",
+      "description": "Control theory, robotics, automation, drone/UAV systems, and intelligent cyber-physical applications.",
+      "image_url": "assets/images/spec-control.jpg",
+      "themes": ["Control & Intelligent Systems", "Embedded Systems", "UAV / Drone Systems", "Automation"]
+    },
+    {
+      "id": "networking-engineering",
+      "title": "Networking Engineering",
+      "level": "400 Level and 500 Level",
+      "legacy_label": "Computer Systems and Networks",
+      "description": "Computer systems, networked infrastructures, cybersecurity, and scalable ICT architectures.",
+      "image_url": "assets/images/spec-network.jpg",
+      "themes": ["Network & Security", "ICT & Systems", "Embedded Systems"]
+    }
+  ],
+  "focus_areas": [
+    {
+      "id": "nlp",
+      "title": "Natural Language Processing",
+      "category": "AI Engineering",
+      "description": "Language understanding, text intelligence, and applied NLP pipelines.",
+      "image_url": "assets/images/focus-nlp.jpg"
+    },
+    {
+      "id": "deep-learning",
+      "title": "Deep Learning",
+      "category": "AI Engineering",
+      "description": "Neural architectures and GPU-backed model experimentation.",
+      "image_url": "assets/images/focus-deep-learning.jpg"
+    },
+    {
+      "id": "networking",
+      "title": "Networking & Security",
+      "category": "Networking Engineering",
+      "description": "Switching, routing, and secure ICT architectures.",
+      "image_url": "assets/images/focus-networking.jpg"
+    },
+    {
+      "id": "control",
+      "title": "Control Systems",
+      "category": "Control Engineering",
+      "description": "Feedback design, instrumentation, and automation.",
+      "image_url": "assets/images/focus-control.jpg"
+    },
+    {
+      "id": "drone",
+      "title": "Drone & UAV Systems",
+      "category": "Control · Embedded · AI",
+      "description": "Unmanned aerial platforms for sensing, autonomy, and control.",
+      "image_url": "assets/images/focus-drone.jpg"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "beng",
+      "title": "B.Eng Computer Engineering",
+      "degree": "Bachelor of Engineering",
+      "duration": "5 years",
+      "category": "Undergraduate",
+      "description": "A five-year NUC BMAS-aligned bachelor programme preparing graduates in computer systems, AI, control, networking, and related engineering practice.",
+      "image_url": "assets/images/prog-ug.jpg"
+    },
+    {
+      "id": "pgd",
+      "title": "PGD Computer Engineering",
+      "degree": "Postgraduate Diploma",
+      "duration": "Full-time (as prescribed by School of Postgraduate Studies)",
+      "category": "Postgraduate",
+      "description": "Bridge and professional development pathway for graduates seeking advanced grounding in Computer Engineering.",
+      "image_url": "assets/images/prog-pg.jpg"
+    },
+    {
+      "id": "msc",
+      "title": "M.Sc Computer Engineering",
+      "degree": "Master of Science",
+      "duration": "Minimum of three semesters (full-time)",
+      "category": "Postgraduate",
+      "description": "Advanced coursework and supervised research leading to a thesis in Computer Engineering specializations.",
+      "image_url": "assets/images/prog-pg.jpg"
+    },
+    {
+      "id": "phd",
+      "title": "Ph.D Computer Engineering",
+      "degree": "Doctor of Philosophy",
+      "duration": "As prescribed by School of Postgraduate Studies",
+      "category": "Postgraduate",
+      "description": "Original research contribution in Computer Engineering under faculty supervision.",
+      "image_url": "assets/images/prog-pg.jpg"
+    }
+  ],
+  "staff": [
+    {
+      "id": "staff-hod",
+      "name": "Dr. Engr. Mrs. Basira Yahaya",
+      "role": "Head of Department",
+      "rank": "Reader",
+      "category": "Academic",
+      "email": "comengg@abu.edu.ng",
+      "description": "Head of the Department of Computer Engineering."
+    },
+    {
+      "id": "staff-adedokun",
+      "name": "Professor E. A. Adedokun",
+      "role": "Professor",
+      "rank": "Professor",
+      "category": "Academic",
+      "description": "Professor of Computer Engineering."
+    },
+    {
+      "id": "staff-muazu",
+      "name": "Prof. M. B. Muazu",
+      "role": "Professor",
+      "rank": "Professor",
+      "category": "Academic",
+      "description": "Professor of Computer Engineering."
+    },
+    {
+      "id": "staff-sikiru",
+      "name": "Prof. T. H. Sikiru",
+      "role": "Professor",
+      "rank": "Professor",
+      "category": "Academic",
+      "description": "Professor of Computer Engineering."
+    },
+    {
+      "id": "staff-abdulrazaq",
+      "name": "Engr. Dr. B. B. Abdulrazaq",
+      "role": "Reader",
+      "rank": "Reader",
+      "category": "Academic",
+      "description": "Reader in Computer Engineering."
+    },
+    {
+      "id": "staff-sadiq",
+      "name": "Dr. Engr. B. O. Sadiq",
+      "role": "Reader",
+      "rank": "Reader",
+      "category": "Academic",
+      "description": "Reader in Computer Engineering."
+    },
+    {
+      "id": "staff-anibaba",
+      "name": "Dr. S. E. Anibaba",
+      "role": "Lecturer I",
+      "rank": "Lecturer I",
+      "category": "Academic",
+      "description": "Lecturer I, Computer Engineering."
+    },
+    {
+      "id": "staff-abdullahi",
+      "name": "Dr. M. Abdullahi",
+      "role": "Lecturer I",
+      "rank": "Lecturer I",
+      "category": "Academic",
+      "description": "Lecturer I, Computer Engineering."
+    },
+    {
+      "id": "staff-abubakar",
+      "name": "Dr. U. Abubakar",
+      "role": "Lecturer I",
+      "rank": "Lecturer I",
+      "category": "Academic",
+      "description": "Lecturer I, Computer Engineering."
+    },
+    {
+      "id": "staff-yusuf-ibrahim",
+      "name": "Dr. Yusuf Ibrahim",
+      "role": "Lecturer I",
+      "rank": "Lecturer I",
+      "category": "Academic",
+      "description": "Lecturer I, Computer Engineering."
+    },
+    {
+      "id": "staff-sm-yusuf",
+      "name": "Dr. S. M. Yusuf",
+      "role": "Lecturer I",
+      "rank": "Lecturer I",
+      "category": "Academic",
+      "description": "Lecturer I, Computer Engineering."
+    },
+    {
+      "id": "staff-oreofe",
+      "name": "Dr. Ajayi Oreofe",
+      "role": "Lecturer II",
+      "rank": "Lecturer II",
+      "category": "Academic",
+      "description": "Lecturer II, Computer Engineering."
+    },
+    {
+      "id": "staff-bello",
+      "name": "Dr. H. S. Bello",
+      "role": "Lecturer II",
+      "rank": "Lecturer II",
+      "category": "Academic",
+      "description": "Lecturer II, Computer Engineering."
+    },
+    {
+      "id": "staff-zaradeen",
+      "name": "Dr. H. Zaradeen",
+      "role": "Assistant Lecturer",
+      "rank": "Assistant Lecturer",
+      "category": "Academic",
+      "description": "Assistant Lecturer, Computer Engineering."
+    },
+    {
+      "id": "staff-usman",
+      "name": "Engr. N. S. Usman",
+      "role": "Assistant Lecturer",
+      "rank": "Assistant Lecturer",
+      "category": "Academic",
+      "description": "Assistant Lecturer, Computer Engineering."
+    },
+    {
+      "id": "staff-adebiyi",
+      "name": "Engr. R. F. Adebiyi",
+      "role": "Assistant Lecturer",
+      "rank": "Assistant Lecturer",
+      "category": "Academic",
+      "description": "Assistant Lecturer, Computer Engineering."
+    },
+    {
+      "id": "staff-adekale",
+      "name": "Engr. A. D. Adekale",
+      "role": "Assistant Lecturer",
+      "rank": "Assistant Lecturer",
+      "category": "Academic",
+      "description": "Assistant Lecturer, Computer Engineering."
+    },
+    {
+      "id": "tech-oladapo",
+      "name": "Mr. Fatai Oladapo",
+      "role": "Chief Technical Officer",
+      "rank": "Chief Technical Officer",
+      "category": "Technologist",
+      "description": "Chief Technical Officer supporting laboratory and technical operations."
+    },
+    {
+      "id": "tech-ogbole",
+      "name": "Mr. Mathew Ogbole",
+      "role": "Technologist",
+      "rank": "Technologist",
+      "category": "Technologist",
+      "description": "Laboratory and technical support."
+    },
+    {
+      "id": "tech-tukur",
+      "name": "Mal. Lawal Tukur",
+      "role": "Technologist",
+      "rank": "Technologist",
+      "category": "Technologist",
+      "description": "Laboratory and technical support."
+    },
+    {
+      "id": "tech-ibrahim",
+      "name": "Mr. Ibrahim Suleiman",
+      "role": "Technologist",
+      "rank": "Technologist",
+      "category": "Technologist",
+      "description": "Laboratory and workshop support."
+    },
+    {
+      "id": "tech-hassan",
+      "name": "Mrs. Amina Hassan",
+      "role": "Technologist",
+      "rank": "Technologist",
+      "category": "Technologist",
+      "description": "Technical laboratory support."
+    },
+    {
+      "id": "admin-aiyejumo",
+      "name": "Mrs. M. A. Aiyejumo",
+      "role": "Secretary",
+      "rank": "Secretary",
+      "category": "Administrative",
+      "description": "Departmental Secretary."
+    },
+    {
+      "id": "admin-ogenyi",
+      "name": "Mr. Moses Ogenyi",
+      "role": "Administrative Staff",
+      "rank": "Administrative Officer",
+      "category": "Administrative",
+      "description": "Administrative support services."
+    },
+    {
+      "id": "admin-bello",
+      "name": "Mal. Tukur Bello",
+      "role": "Administrative Staff",
+      "rank": "Administrative Officer",
+      "category": "Administrative",
+      "description": "Administrative support services."
+    },
+    {
+      "id": "admin-garba",
+      "name": "Mrs. Fatima Garba",
+      "role": "Clerical Officer",
+      "rank": "Clerical Officer",
+      "category": "Administrative",
+      "description": "Records and clerical support."
+    }
+  ],
+  "students": {
+    "disclaimer": "Illustrative sample directory for this redesign project. Not an official university roster.",
+    "entries": [
+      {
+        "id": "stu-001",
+        "name": "Aka'aba Musa Akidi",
+        "reg_no": "U21CO2029",
+        "level": "500",
+        "specialization": "AI Engineering",
+        "description": "Sample 500 Level student specializing in AI Engineering."
+      },
+      {
+        "id": "stu-002",
+        "name": "Aisha Bello Mohammed",
+        "reg_no": "U22CO1104",
+        "level": "400",
+        "specialization": "Networking Engineering",
+        "description": "Sample 400 Level student."
+      },
+      {
+        "id": "stu-003",
+        "name": "Chinedu Okeke",
+        "reg_no": "U22CO1187",
+        "level": "400",
+        "specialization": "Control Engineering",
+        "description": "Sample 400 Level student."
+      },
+      {
+        "id": "stu-004",
+        "name": "Fatima Yusuf Ibrahim",
+        "reg_no": "U21CO2041",
+        "level": "500",
+        "specialization": "Control Engineering",
+        "description": "Sample 500 Level student."
+      },
+      {
+        "id": "stu-005",
+        "name": "Ibrahim Salihu",
+        "reg_no": "U21CO2098",
+        "level": "500",
+        "specialization": "Networking Engineering",
+        "description": "Sample 500 Level student."
+      },
+      {
+        "id": "stu-006",
+        "name": "Grace Adeola Ojo",
+        "reg_no": "U23CO0912",
+        "level": "300",
+        "specialization": null,
+        "description": "Sample 300 Level student (pre-specialization)."
+      },
+      {
+        "id": "stu-007",
+        "name": "Umar Farouk Abdullahi",
+        "reg_no": "U23CO0955",
+        "level": "300",
+        "specialization": null,
+        "description": "Sample 300 Level student (pre-specialization)."
+      },
+      {
+        "id": "stu-008",
+        "name": "Blessing Eze",
+        "reg_no": "U24CO0610",
+        "level": "200",
+        "specialization": null,
+        "description": "Sample 200 Level student."
+      },
+      {
+        "id": "stu-009",
+        "name": "Abdulkadir Musa",
+        "reg_no": "U24CO0677",
+        "level": "200",
+        "specialization": null,
+        "description": "Sample 200 Level student."
+      },
+      {
+        "id": "stu-010",
+        "name": "Ngozi Adaeze Nwosu",
+        "reg_no": "U25CO0318",
+        "level": "100",
+        "specialization": null,
+        "description": "Sample 100 Level student."
+      },
+      {
+        "id": "stu-011",
+        "name": "Yusuf Haruna",
+        "reg_no": "U25CO0342",
+        "level": "100",
+        "specialization": null,
+        "description": "Sample 100 Level student."
+      },
+      {
+        "id": "stu-012",
+        "name": "Sarah Danjuma",
+        "reg_no": "U22CO1211",
+        "level": "400",
+        "specialization": "AI Engineering",
+        "description": "Sample 400 Level student."
+      },
+      {
+        "id": "stu-013",
+        "name": "Emmanuel Tersoo",
+        "reg_no": "U23CO0881",
+        "level": "300",
+        "specialization": null,
+        "description": "Sample 300 Level student."
+      },
+      {
+        "id": "stu-014",
+        "name": "Halima Abubakar",
+        "reg_no": "U21CO2115",
+        "level": "500",
+        "specialization": "AI Engineering",
+        "description": "Sample 500 Level student."
+      },
+      {
+        "id": "stu-015",
+        "name": "Kelvin Okafor",
+        "reg_no": "U24CO0703",
+        "level": "200",
+        "specialization": null,
+        "description": "Sample 200 Level student."
+      },
+      {
+        "id": "stu-016",
+        "name": "Zainab Lawal",
+        "reg_no": "U22CO1250",
+        "level": "400",
+        "specialization": "Networking Engineering",
+        "description": "Sample 400 Level student."
+      }
+    ]
+  },
+  "news": [
+    {
+      "id": "news-001",
+      "title": "Women Leading Change: Spotlight on Departmental Leadership",
+      "date": "2026-03-08",
+      "category": "Leadership",
+      "description": "The Department recognises leadership that advances inclusion in engineering education, with HOD Dr. Engr. Mrs. Basira Yahaya among voices shaping women in STEM conversations across the Faculty.",
+      "image_url": "assets/images/news-leadership.jpg"
+    },
+    {
+      "id": "news-002",
+      "title": "ABU Celebrates Female Students at Huawei Global ICT Competition",
+      "date": "2025-11-18",
+      "category": "Achievement",
+      "description": "Ahmadu Bello University celebrated the participation and excellence of female students in the Huawei Global ICT Competition — a milestone that underscores growing women-in-STEM momentum across engineering disciplines.",
+      "image_url": "assets/images/news-huawei.jpg"
+    },
+    {
+      "id": "news-003",
+      "title": "Department Marks Autonomy Anniversary",
+      "date": "2025-11-01",
+      "category": "Anniversary",
+      "description": "Computer Engineering reflects on full departmental autonomy granted in November 2017 and continued growth in teaching, research, and industry-aligned specializations.",
+      "image_url": "assets/images/news-autonomy.jpg"
+    },
+    {
+      "id": "news-004",
+      "title": "SIWES Briefing for Undergraduate Cohorts",
+      "date": "2026-01-20",
+      "category": "Students",
+      "description": "Undergraduate students receive guidance on industrial training expectations, documentation, and safety as they prepare for SIWES placements.",
+      "image_url": "assets/images/news-siwes.jpg"
+    },
+    {
+      "id": "news-005",
+      "title": "Research Seminar Series: Intelligent Systems & Networks",
+      "date": "2026-02-12",
+      "category": "Research",
+      "description": "Faculty and postgraduate researchers present ongoing work spanning AI engineering, control systems, and networked infrastructures.",
+      "image_url": "assets/images/news-seminar.jpg"
+    },
+    {
+      "id": "news-006",
+      "title": "Undergraduate Admissions Window Reminder",
+      "date": "2025-09-15",
+      "category": "Admissions",
+      "description": "Prospective candidates for the five-year B.Eng Computer Engineering programme are encouraged to follow official ABU admissions announcements and contact the Department for programme enquiries.",
+      "image_url": "assets/images/news-admissions.jpg"
+    }
+  ],
+  "themes": [
+    "ICT & Systems",
+    "Network & Security",
+    "Artificial Intelligence",
+    "Control & Intelligent Systems",
+    "Embedded Systems",
+    "Image Processing & Computer Vision"
+  ],
+  "peos": [
+    {
+      "id": "PEO1",
+      "title": "Professional Competence and Problem Solving",
+      "description": "Apply sound knowledge of computer engineering principles, analytical skills, and modern engineering tools to solve real-world problems in industry, government, and society."
+    },
+    {
+      "id": "PEO2",
+      "title": "Lifelong Learning and Professional Development",
+      "description": "Engage in lifelong learning, professional development, postgraduate studies, research, and emerging technological innovations in computer engineering and related fields."
+    },
+    {
+      "id": "PEO3",
+      "title": "Innovation and Sustainable Technology Development",
+      "description": "Design and develop innovative, sustainable, and research-driven solutions in areas such as embedded systems, artificial intelligence, robotics, cybersecurity, and intelligent computing systems."
+    },
+    {
+      "id": "PEO4",
+      "title": "Ethics, Leadership and Communication",
+      "description": "Demonstrate ethical responsibility, leadership qualities, teamwork, and effective communication skills in multidisciplinary and multicultural professional environments."
+    },
+    {
+      "id": "PEO5",
+      "title": "Entrepreneurship and Societal Impact",
+      "description": "Contribute to national and global technological development through entrepreneurship, adaptability, and the application of globally relevant technologies to local societal challenges."
+    }
+  ],
+  "programme_outcomes": [
+    { "id": "PO1", "title": "Engineering Knowledge", "description": "Apply mathematics, science, engineering fundamentals and specialization knowledge to complex engineering problems." },
+    { "id": "PO2", "title": "Problem Analysis", "description": "Identify, formulate, research and analyze complex engineering problems using first principles." },
+    { "id": "PO3", "title": "Design/Development of Solutions", "description": "Design systems, components or processes meeting specified needs with societal and environmental considerations." },
+    { "id": "PO4", "title": "Investigation", "description": "Conduct investigations using research-based knowledge and methods to reach valid conclusions." },
+    { "id": "PO5", "title": "Modern Tool Usage", "description": "Select and apply modern engineering and ICT tools, with awareness of limitations." },
+    { "id": "PO6", "title": "The Engineer and Society", "description": "Assess societal, health, safety, legal and cultural issues relevant to professional practice." },
+    { "id": "PO7", "title": "Environment and Sustainability", "description": "Understand impacts of engineering solutions and the need for sustainable development." },
+    { "id": "PO8", "title": "Ethics", "description": "Apply ethical principles and COREN professional codes of conduct." },
+    { "id": "PO9", "title": "Individual and Team Work", "description": "Function effectively as an individual and in diverse, multidisciplinary teams." },
+    { "id": "PO10", "title": "Communication", "description": "Communicate effectively with the engineering community and society at large." },
+    { "id": "PO11", "title": "Project Management", "description": "Apply engineering, management and financial principles to project work." },
+    { "id": "PO12", "title": "Lifelong Learning", "description": "Recognize and prepare for independent lifelong learning amid technological change." }
+  ]
+}
