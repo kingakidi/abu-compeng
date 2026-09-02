@@ -4,7 +4,7 @@ COEN 554 Question Two redesign. Static site: HTML5 + CSS3 + JSON (no JavaScript)
 
 ## Live host
 
-Deployed on **Vercel** (see project dashboard after first deploy).
+- **Vercel:** https://compeng.vercel.app
 
 ## Local preview
 
