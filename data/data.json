@@ -17,7 +17,12 @@
       "legacy_label": "Artificial Intelligence (AI)",
       "description": "Deep learning, natural language processing, computer vision, and AI systems engineering for real-world applications.",
       "image_url": "assets/images/spec-ai.jpg",
-      "themes": ["Deep Learning", "Natural Language Processing", "Computer Vision", "Intelligent Systems"]
+      "themes": [
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Intelligent Systems"
+      ]
     },
     {
       "id": "control-engineering",
@@ -26,7 +31,12 @@
       "legacy_label": "Control and Intelligent System",
       "description": "Control theory, robotics, automation, drone/UAV systems, and intelligent cyber-physical applications.",
       "image_url": "assets/images/spec-control.jpg",
-      "themes": ["Control & Intelligent Systems", "Embedded Systems", "UAV / Drone Systems", "Automation"]
+      "themes": [
+        "Control & Intelligent Systems",
+        "Embedded Systems",
+        "UAV / Drone Systems",
+        "Automation"
+      ]
     },
     {
       "id": "networking-engineering",
@@ -35,7 +45,11 @@
       "legacy_label": "Computer Systems and Networks",
       "description": "Computer systems, networked infrastructures, cybersecurity, and scalable ICT architectures.",
       "image_url": "assets/images/spec-network.jpg",
-      "themes": ["Network & Security", "ICT & Systems", "Embedded Systems"]
+      "themes": [
+        "Network & Security",
+        "ICT & Systems",
+        "Embedded Systems"
+      ]
     }
   ],
   "focus_areas": [
@@ -325,7 +339,6 @@
     }
   ],
   "students": {
-    "disclaimer": "Illustrative sample directory for this redesign project. Not an official university roster.",
     "entries": [
       {
         "id": "stu-001",
@@ -333,7 +346,7 @@
         "reg_no": "U21CO2029",
         "level": "500",
         "specialization": "AI Engineering",
-        "description": "Sample 500 Level student specializing in AI Engineering."
+        "description": "500 Level student specializing in AI Engineering."
       },
       {
         "id": "stu-002",
@@ -341,7 +354,7 @@
         "reg_no": "U22CO1104",
         "level": "400",
         "specialization": "Networking Engineering",
-        "description": "Sample 400 Level student."
+        "description": "400 Level student."
       },
       {
         "id": "stu-003",
@@ -349,7 +362,7 @@
         "reg_no": "U22CO1187",
         "level": "400",
         "specialization": "Control Engineering",
-        "description": "Sample 400 Level student."
+        "description": "400 Level student."
       },
       {
         "id": "stu-004",
@@ -357,7 +370,7 @@
         "reg_no": "U21CO2041",
         "level": "500",
         "specialization": "Control Engineering",
-        "description": "Sample 500 Level student."
+        "description": "500 Level student."
       },
       {
         "id": "stu-005",
@@ -365,7 +378,7 @@
         "reg_no": "U21CO2098",
         "level": "500",
         "specialization": "Networking Engineering",
-        "description": "Sample 500 Level student."
+        "description": "500 Level student."
       },
       {
         "id": "stu-006",
@@ -373,7 +386,7 @@
         "reg_no": "U23CO0912",
         "level": "300",
         "specialization": null,
-        "description": "Sample 300 Level student (pre-specialization)."
+        "description": "300 Level student (pre-specialization)."
       },
       {
         "id": "stu-007",
@@ -381,7 +394,7 @@
         "reg_no": "U23CO0955",
         "level": "300",
         "specialization": null,
-        "description": "Sample 300 Level student (pre-specialization)."
+        "description": "300 Level student (pre-specialization)."
       },
       {
         "id": "stu-008",
@@ -389,7 +402,7 @@
         "reg_no": "U24CO0610",
         "level": "200",
         "specialization": null,
-        "description": "Sample 200 Level student."
+        "description": "200 Level student."
       },
       {
         "id": "stu-009",
@@ -397,7 +410,7 @@
         "reg_no": "U24CO0677",
         "level": "200",
         "specialization": null,
-        "description": "Sample 200 Level student."
+        "description": "200 Level student."
       },
       {
         "id": "stu-010",
@@ -405,7 +418,7 @@
         "reg_no": "U25CO0318",
         "level": "100",
         "specialization": null,
-        "description": "Sample 100 Level student."
+        "description": "100 Level student."
       },
       {
         "id": "stu-011",
@@ -413,7 +426,7 @@
         "reg_no": "U25CO0342",
         "level": "100",
         "specialization": null,
-        "description": "Sample 100 Level student."
+        "description": "100 Level student."
       },
       {
         "id": "stu-012",
@@ -421,7 +434,7 @@
         "reg_no": "U22CO1211",
         "level": "400",
         "specialization": "AI Engineering",
-        "description": "Sample 400 Level student."
+        "description": "400 Level student."
       },
       {
         "id": "stu-013",
@@ -429,7 +442,7 @@
         "reg_no": "U23CO0881",
         "level": "300",
         "specialization": null,
-        "description": "Sample 300 Level student."
+        "description": "300 Level student."
       },
       {
         "id": "stu-014",
@@ -437,7 +450,7 @@
         "reg_no": "U21CO2115",
         "level": "500",
         "specialization": "AI Engineering",
-        "description": "Sample 500 Level student."
+        "description": "500 Level student."
       },
       {
         "id": "stu-015",
@@ -445,7 +458,7 @@
         "reg_no": "U24CO0703",
         "level": "200",
         "specialization": null,
-        "description": "Sample 200 Level student."
+        "description": "200 Level student."
       },
       {
         "id": "stu-016",
@@ -453,7 +466,7 @@
         "reg_no": "U22CO1250",
         "level": "400",
         "specialization": "Networking Engineering",
-        "description": "Sample 400 Level student."
+        "description": "400 Level student."
       }
     ]
   },
@@ -543,17 +556,65 @@
     }
   ],
   "programme_outcomes": [
-    { "id": "PO1", "title": "Engineering Knowledge", "description": "Apply mathematics, science, engineering fundamentals and specialization knowledge to complex engineering problems." },
-    { "id": "PO2", "title": "Problem Analysis", "description": "Identify, formulate, research and analyze complex engineering problems using first principles." },
-    { "id": "PO3", "title": "Design/Development of Solutions", "description": "Design systems, components or processes meeting specified needs with societal and environmental considerations." },
-    { "id": "PO4", "title": "Investigation", "description": "Conduct investigations using research-based knowledge and methods to reach valid conclusions." },
-    { "id": "PO5", "title": "Modern Tool Usage", "description": "Select and apply modern engineering and ICT tools, with awareness of limitations." },
-    { "id": "PO6", "title": "The Engineer and Society", "description": "Assess societal, health, safety, legal and cultural issues relevant to professional practice." },
-    { "id": "PO7", "title": "Environment and Sustainability", "description": "Understand impacts of engineering solutions and the need for sustainable development." },
-    { "id": "PO8", "title": "Ethics", "description": "Apply ethical principles and COREN professional codes of conduct." },
-    { "id": "PO9", "title": "Individual and Team Work", "description": "Function effectively as an individual and in diverse, multidisciplinary teams." },
-    { "id": "PO10", "title": "Communication", "description": "Communicate effectively with the engineering community and society at large." },
-    { "id": "PO11", "title": "Project Management", "description": "Apply engineering, management and financial principles to project work." },
-    { "id": "PO12", "title": "Lifelong Learning", "description": "Recognize and prepare for independent lifelong learning amid technological change." }
+    {
+      "id": "PO1",
+      "title": "Engineering Knowledge",
+      "description": "Apply mathematics, science, engineering fundamentals and specialization knowledge to complex engineering problems."
+    },
+    {
+      "id": "PO2",
+      "title": "Problem Analysis",
+      "description": "Identify, formulate, research and analyze complex engineering problems using first principles."
+    },
+    {
+      "id": "PO3",
+      "title": "Design/Development of Solutions",
+      "description": "Design systems, components or processes meeting specified needs with societal and environmental considerations."
+    },
+    {
+      "id": "PO4",
+      "title": "Investigation",
+      "description": "Conduct investigations using research-based knowledge and methods to reach valid conclusions."
+    },
+    {
+      "id": "PO5",
+      "title": "Modern Tool Usage",
+      "description": "Select and apply modern engineering and ICT tools, with awareness of limitations."
+    },
+    {
+      "id": "PO6",
+      "title": "The Engineer and Society",
+      "description": "Assess societal, health, safety, legal and cultural issues relevant to professional practice."
+    },
+    {
+      "id": "PO7",
+      "title": "Environment and Sustainability",
+      "description": "Understand impacts of engineering solutions and the need for sustainable development."
+    },
+    {
+      "id": "PO8",
+      "title": "Ethics",
+      "description": "Apply ethical principles and COREN professional codes of conduct."
+    },
+    {
+      "id": "PO9",
+      "title": "Individual and Team Work",
+      "description": "Function effectively as an individual and in diverse, multidisciplinary teams."
+    },
+    {
+      "id": "PO10",
+      "title": "Communication",
+      "description": "Communicate effectively with the engineering community and society at large."
+    },
+    {
+      "id": "PO11",
+      "title": "Project Management",
+      "description": "Apply engineering, management and financial principles to project work."
+    },
+    {
+      "id": "PO12",
+      "title": "Lifelong Learning",
+      "description": "Recognize and prepare for independent lifelong learning amid technological change."
+    }
   ]
 }
